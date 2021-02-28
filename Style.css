@@ -93,7 +93,7 @@ p{
 .attribution { font-size: 11px; text-align: center; }
   .attribution a { color: hsl(228, 45%, 44%); }
   .attribution { 
-    position:absolute;
+    position:relative;
     bottom: 0;
     left: 0;
     width:100%;
